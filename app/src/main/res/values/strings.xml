@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Lịch Học Cá Nhân</string> <!-- giữ nguyên dòng cũ của bạn -->
+
+    <!-- Chung -->
+    <string name="luu">Lưu</string>
+    <string name="huy">Hủy</string>
+    <string name="quay_lai">Quay lại</string>
+
+    <!-- Màn hình chính -->
+    <string name="tieu_de_tkb">Thời khóa biểu</string>
+    <string name="cd_nhap_tkb">Nhập thời khóa biểu</string>
+    <string name="cd_quet_qr">Quét mã QR</string>
+    <string name="chua_co_tkb">Chưa có thời khóa biểu</string>
+    <string name="mo_ta_chua_co_tkb">Nhập các môn học của bạn, hoặc quét mã\nQR thời khóa biểu của bạn cùng lớp.</string>
+    <string name="nhap_tkb">Nhập thời khóa biểu</string>
+    <string name="quet_qr_ban_be">Quét mã QR của bạn bè</string>
+    <string name="theo_ngay">Theo ngày</string>
+    <string name="ca_tuan">Cả tuần</string>
+
+    <!-- Thanh điều hướng dưới -->
+    <string name="tab_cong_viec">Công việc</string>
+    <string name="tab_nhac_nho">Nhắc nhở</string>
+    <string name="tab_toi">Tôi</string>
+
+    <!-- Màn hình sửa lịch -->
+    <string name="sua_tkb">Sửa thời khóa biểu</string>
+    <string name="mon_hoc_goi_y">Môn học...</string>
+    <string name="xoa_mon_hoc">Xóa môn học</string>
+    <string name="them_lop_phong">＋ Thêm lớp, phòng</string>
+    <string name="goi_y_lop">Tên lớp, ví dụ 21CTT1</string>
+    <string name="goi_y_phong">Phòng học, ví dụ A.301</string>
+    <string name="da_luu">Đã lưu thời khóa biểu</string>
+    <string name="luu_that_bai">Lưu thất bại, vui lòng thử lại</string>
+    <string name="thoat_chua_luu">Thoát mà chưa lưu?</string>
+    <string name="thay_doi_se_mat">Các thay đổi sẽ bị mất.</string>
+    <string name="thoat">Thoát</string>
+    <string name="o_lai">Ở lại</string>
+
+    <!-- Hiển thị môn học -->
+    <string name="buoi_sang">☀️  Buổi sáng</string>
+    <string name="buoi_chieu">🌤️  Buổi chiều</string>
+    <string name="sang">☀️  Sáng</string>
+    <string name="chieu">🌤️  Chiều</string>
+    <string name="chua_co_mon">Chưa có môn học</string>
+    <string name="chua_nhap">Chưa nhập</string>
+    <string name="sua_mon_hoc">Sửa môn học</string>
+    <string name="nhan_lop">Lớp</string>
+    <string name="nhan_phong_hoc">Phòng học</string>
+    <string name="nhan_tiet">Tiết</string>
+    <string name="nhan_nam_hoc">Năm học</string>
+    <string name="thu">Thứ</string>
+
+    <!-- Chuỗi có tham số -->
+    <string name="tiet_so">Tiết %1$d</string>
+    <string name="lop_x">Lớp %1$s</string>
+    <string name="phong_x">Phòng %1$s</string>
+    <string name="tieu_de_hop_thoai">%1$s  ·  Tiết %2$s</string>
+
+    <!-- Toast tạm thời -->
+    <string name="sap_lam_qr">Chức năng quét mã QR sẽ được làm tiếp.</string>
+    <string name="sap_lam">Chức năng này sẽ được làm tiếp.</string>
+</resources>
